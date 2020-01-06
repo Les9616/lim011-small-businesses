@@ -23,7 +23,7 @@ Pero ¿qué es turismo de bienestar? Según el Instituto de Bienestar Global lo 
 **"un viaje asociado con la búsqueda de mantener o mejorar el bienestar personal”**.
 Y que sólo en el 2017 movió 639 billones de dólares.
 
-![Imagen Estadisticas](.\img\WT.jpg)
+![Imagen Estadisticas](https://github.com/Les9616/lim011-small-businesses/blob/master/WT.jpg)
 
 ## 2. Acerca de la empresa
  
@@ -78,11 +78,11 @@ Statements:
 
 ###  User persona
 
-![User Persona](.\img\UserPersona.PNG)
+![User Persona](https://github.com/Les9616/lim011-small-businesses/blob/master/UserPersona.PNG)
 
 ###  Costumer Journey Map
 
-![Costumer Journey Map](.\img\CJM.png)
+![Costumer Journey Map](https://github.com/Les9616/lim011-small-businesses/blob/master/CJM.png)
 
 ## 7. Definición de la solución
 
