@@ -127,8 +127,6 @@ El usuario puede encontrar en la sección llamada Staff, links directos del pers
 
 ## 11. Links
 
-- Prototipo navegable de alta fidelidad Primera Versión [Marvel](https://marvelapp.com/20f7c79g).
-
 - Video [Loom](https://www.loom.com/share/2f1660aa1f074c9bbc2de4614d68a82a)
 
 - Carpeta compartida [Drive](https://drive.google.com/drive/folders/1FJdyXhNAS14YiS9SaOKpAG2gHAat1arZ).
