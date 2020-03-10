@@ -1,5 +1,7 @@
 # Transversal Travel
- 
+
+![Imagen Banner]( https://github.com/Les9616/lim011-small-businesses/blob/master/landscape-ad-banner-design%402x.png)
+
 ## Índice
  
 * [1. Preámbulo](#1-preámbulo)
